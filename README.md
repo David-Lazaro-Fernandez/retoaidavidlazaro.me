@@ -1,4 +1,4 @@
-# Asi es sherpa soy un NUBER
+# Asi es Sherpa soy un NUBER
 > **N** ecio 
 >> **U** nico y diferente
 >>> **B** ebesita bebelin
